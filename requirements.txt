@@ -1,5 +1,5 @@
 Flask==0.9
-Jinja2==2.6
+Jinja2==2.10.1
 Twiggy==0.4.5
 Werkzeug==0.8.3
 diesel==3.0.24
